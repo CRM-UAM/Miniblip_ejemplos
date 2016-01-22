@@ -5,7 +5,7 @@ Instrucciones
 --
 1. Crea una carpeta con un nombre de proyecto descriptivo
 1. Sube el código en un fichero .cpp Recuerda añadir tu nombre y la fecha en un comentario
-1. Añade un README.md con información, fotos, enlazando vídeos de YouTube, etc
+1. (Opcional) Añade un README.md con información, fotos, enlazando vídeos de YouTube, etc
 
 
 Cargar los ejemplos en la MiniBlip
