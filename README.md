@@ -10,7 +10,7 @@ Instrucciones
 
 Cargar los ejemplos en la MiniBlip
 --
-Cómo subir programas: <http://hack-miniblip.github.io/programar.html>
+Cómo subir programas: <http://hack-miniblip.github.io/programar.html>  
 Información útil: <https://github.com/hack-miniblip/hack-miniblip.github.io/blob/master/cookbook.md>
 
 ![](http://hack-miniblip.github.io/esquema_minilip_pinout.png)
